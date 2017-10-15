@@ -33,4 +33,4 @@ for x in range (picW): # moves horizontally across the image/ checks the width
         del greenPixelList [:]
         del bluePixelList [:]
         
-newImg.save("FinalizedPic.png") # saving the picture w/o the man
+newImg.save("FinalizedImage.png") # saving the picture w/o the man
